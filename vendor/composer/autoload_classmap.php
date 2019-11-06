@@ -39,7 +39,7 @@ return array(
     'App\\Http\\Controllers\\Employee\\EmployeeController' => $baseDir . '/app/Http/Controllers/Employee/EmployeeController.php',
     'App\\Http\\Controllers\\Eps\\EpsController' => $baseDir . '/app/Http/Controllers/Eps/EpsController.php',
     'App\\Http\\Controllers\\External\\ExternalController' => $baseDir . '/app/Http/Controllers/External/ExternalController.php',
-    'App\\Http\\Controllers\\Importobr\\ImportObrController' => $baseDir . '/app/Http/Controllers/Importobr/ImportObrController.php',
+    'App\\Http\\Controllers\\Importobr\\ImportObrController' => $baseDir . '/app/Http/Controllers/Importobr/ImportObrController1.php',
     'App\\Http\\Controllers\\Importobr\\ImportObrController2' => $baseDir . '/app/Http/Controllers/Importobr/ImportObrController2.php',
     'App\\Http\\Controllers\\Importoym\\ImportoymController' => $baseDir . '/app/Http/Controllers/Importoym/ImportoymController.php',
     'App\\Http\\Controllers\\Income\\IncomeController' => $baseDir . '/app/Http/Controllers/Income/IncomeController.php',

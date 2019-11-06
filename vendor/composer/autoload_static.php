@@ -428,7 +428,7 @@ class ComposerStaticInit7ba194893e01f9f743d76bdf742620fe
         'App\\Http\\Controllers\\Employee\\EmployeeController' => __DIR__ . '/../..' . '/app/Http/Controllers/Employee/EmployeeController.php',
         'App\\Http\\Controllers\\Eps\\EpsController' => __DIR__ . '/../..' . '/app/Http/Controllers/Eps/EpsController.php',
         'App\\Http\\Controllers\\External\\ExternalController' => __DIR__ . '/../..' . '/app/Http/Controllers/External/ExternalController.php',
-        'App\\Http\\Controllers\\Importobr\\ImportObrController' => __DIR__ . '/../..' . '/app/Http/Controllers/Importobr/ImportObrController.php',
+        'App\\Http\\Controllers\\Importobr\\ImportObrController' => __DIR__ . '/../..' . '/app/Http/Controllers/Importobr/ImportObrController1.php',
         'App\\Http\\Controllers\\Importobr\\ImportObrController2' => __DIR__ . '/../..' . '/app/Http/Controllers/Importobr/ImportObrController2.php',
         'App\\Http\\Controllers\\Importoym\\ImportoymController' => __DIR__ . '/../..' . '/app/Http/Controllers/Importoym/ImportoymController.php',
         'App\\Http\\Controllers\\Income\\IncomeController' => __DIR__ . '/../..' . '/app/Http/Controllers/Income/IncomeController.php',
